@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 * {
     box-sizing: border-box;
@@ -486,7 +486,7 @@ body {
     border-color: #374151;
 }
 
-=======
+
 
 * {
     box-sizing: border-box;
@@ -974,4 +974,14 @@ body {
     border-color: #374151;
 }
 
->>>>>>> 33a66ec9de861c39b8553fbe770eaf06abb4ce4f
+.headingAbout{
+    font-size: 50px;
+    margin-top: 50px;
+
+}
+.about-text {
+    font-size: 100px;
+    color: #6c757d;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
